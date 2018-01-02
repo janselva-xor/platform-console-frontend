@@ -5,6 +5,7 @@ All notable changes to this project will be documented in this file.
 ### Added:
 - PNDA-3039: Console application name text entry is too small
 - PNDA-3100: Console home page topic view isn't very usable when there are a lot of topics
+- PNDA-2834: Added pop-up for displaying status of each sub-component of each application on applications page.
 - PNDA-3562: Add PAM authentication
 
 ### Changed:
